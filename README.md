@@ -13,6 +13,7 @@ But obviously it can be done.
 This interfaces to a C wrapper around the libGeographic.dylib
 More portable, but one added indirection, and the added task of managing the shared library.
 
+## Testing
 
-
+This has only been tested on Mac OS 10.13 with LLVM 9.1.0
 
